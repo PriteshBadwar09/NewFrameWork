@@ -22,7 +22,7 @@ public class RegisterTest extends TestNGListeners {
 		
 		register.enteringDetails(TimeValueGenerator.getTime()+data);
 	}
-
+//Checkin git is workin or not.
 	
 	@Test(priority = 2)
 	public void navToLoginPage()
