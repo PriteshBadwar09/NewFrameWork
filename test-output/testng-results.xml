@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-17T17:53:26 IST" name="Suite" finished-at="2024-01-17T17:53:28 IST" duration-ms="2354">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T17:53:26 IST" name="Test" finished-at="2024-01-17T17:53:28 IST" duration-ms="2354">
+      <class name="testclasses.LoginTest">
+        <test-method is-config="true" signature="createObject()[pri:0, instance:testclasses.LoginTest@60bd273d]" started-at="2024-01-17T17:53:28 IST" name="createObject" finished-at="2024-01-17T17:53:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method signature="validatePage()[pri:3, instance:testclasses.LoginTest@60bd273d]" started-at="2024-01-17T17:53:28 IST" name="validatePage" finished-at="2024-01-17T17:53:28 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="enterDetails()[pri:4, instance:testclasses.LoginTest@60bd273d]" started-at="2024-01-17T17:53:28 IST" name="enterDetails" finished-at="2024-01-17T17:53:28 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method signature="clickloginbutton()[pri:5, instance:testclasses.LoginTest@60bd273d]" started-at="2024-01-17T17:53:28 IST" name="clickloginbutton" finished-at="2024-01-17T17:53:28 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickloginbutton -->
+      </class> <!-- testclasses.LoginTest -->
+      <class name="testclasses.RegisterTest">
+        <test-method is-config="true" signature="inItBrowser()[pri:0, instance:testclasses.RegisterTest@2d52216b]" started-at="2024-01-17T17:53:20 IST" name="inItBrowser" finished-at="2024-01-17T17:53:26 IST" duration-ms="6030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inItBrowser -->
+        <test-method is-config="true" signature="createObject()[pri:0, instance:testclasses.RegisterTest@2d52216b]" started-at="2024-01-17T17:53:26 IST" name="createObject" finished-at="2024-01-17T17:53:26 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method signature="clickResgisterPage()[pri:1, instance:testclasses.RegisterTest@2d52216b]" started-at="2024-01-17T17:53:26 IST" name="clickResgisterPage" finished-at="2024-01-17T17:53:28 IST" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickResgisterPage -->
+        <test-method signature="enterDetailPage()[pri:2, instance:testclasses.RegisterTest@2d52216b]" started-at="2024-01-17T17:53:28 IST" name="enterDetailPage" finished-at="2024-01-17T17:53:28 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDetailPage -->
+      </class> <!-- testclasses.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
